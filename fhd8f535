@@ -6,7 +6,7 @@ local ImageLabel = Instance.new("ImageLabel")
 
 
 VegaWorld.Name = "VegaWorld"
-VegaWorld.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+VegaWorld.Parent = game.Players.LocalPlayerPlayerGui
 VegaWorld.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Message.Name = "Message"
